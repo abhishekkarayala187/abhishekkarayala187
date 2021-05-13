@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning mern stack
 - 💞️ I’m looking to collaborate on c++ development projects
 - 📫 How to reach me ...
-  you can contect or email me on my personal email address
+  you can contact or email me on my personal email address
     abhishekkarayala@gmail.com
 
 <!---
