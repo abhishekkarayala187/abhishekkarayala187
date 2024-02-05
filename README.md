@@ -19,3 +19,9 @@ You can click the Preview link to take a look at your changes.
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkarayala187&layout=compact&langs_count=8&theme=transparent)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekkarayala187&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent)
+
+<div align="left"> <h5>👋 Know More</h5></div>
+ 
+ 
+ [![My Skills](https://skillicons.dev/icons?i=linkedin&perline=8)](https://www.linkedin.com/in/abhishek-karayala/)
+ [![My Skills](https://skillicons.dev/icons?i=gmail)](abhishekkarayala@gmail.com)
