@@ -1,9 +1,9 @@
  <div align="center"> <h1>👋 Hi, I’m @abhishekkarayala187</h1></div>
  <div align="center"> <h3> Software Developer</h3></div>
 
+![](https://komarev.com/ghpvc/?username=abhishekkarayala187)
 
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=abhishekkarayala187)
 
 <!---
 abhishekkarayala187/abhishekkarayala187 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
